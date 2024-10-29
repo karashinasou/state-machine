@@ -1,6 +1,6 @@
-[![license](https://img.shields.io/github/license/tomori-hikage/state-machine.svg?style=flat-square)](https://github.com/tomori-hikage/state-machine/blob/master/LICENSE)
-[![release](https://img.shields.io/github/release/tomori-hikage/state-machine.svg?style=flat-square)](https://github.com/tomori-hikage/state-machine/releases)
-[![GitHub](https://img.shields.io/github/followers/tomori-hikage.svg?label=@tomori-hikage&style=social)](https://github.com/tomori-hikage)
+[![license](https://img.shields.io/github/license/karashinasou/state-machine.svg?style=flat-square)](https://github.com/karashinasou/state-machine/blob/master/LICENSE)
+[![release](https://img.shields.io/github/release/karashinasou/state-machine.svg?style=flat-square)](https://github.com/karashinasou/state-machine/releases)
+[![GitHub](https://img.shields.io/github/followers/karashinasou.svg?label=@karashinasou&style=social)](https://github.com/karashinasou)
 
 # state-machine
 
@@ -26,7 +26,7 @@ Unity2019.4以上はGitHubから直接追加できます。この方法はPackag
 - <kbd>Add from Git URL</kbd>を選択します
 - `https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts` を貼り付けます
 - <kbd>Add</kbd>をクリックします
-- `https://github.com/tomori-hikage/state-machine.git?path=state-machine/Assets/StateMachine` を貼り付けます
+- `https://github.com/karashinasou/state-machine.git?path=state-machine/Assets/StateMachine` を貼り付けます
 - <kbd>Add</kbd>をクリックします
 </details>
 
